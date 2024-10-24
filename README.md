@@ -4,7 +4,7 @@ Sou o tipo de pessoa que gosta de conhecer as coisas profundamente e me dedicar 
 
 Aqui, você irá encontrar meus trabalhos públicos, experimentos pessoais, indicações e dicas sobre estudos.
 
-📫 Para mais informações, acesse meu (LinkedIn)[https://www.linkedin.com/in/mateusmagalhaes/].
+📫 Para mais informações, acesse meu [LinkedIn](https://www.linkedin.com/in/mateusmagalhaes/).
 
 <!---
 MLevi29/MLevi29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
